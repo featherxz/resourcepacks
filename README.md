@@ -1,2 +1,1 @@
-WHAT? this does not need a readme!\n
-click there do look for your version ----->
+WHAT? this does not need a readme! || Click there do look for your version ----->
